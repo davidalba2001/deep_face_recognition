@@ -3,3 +3,6 @@ checkpoints/
 data/
 dataset/
 save_model/
+output/
+.vscode/
+old-versions/
